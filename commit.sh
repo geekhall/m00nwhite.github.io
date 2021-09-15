@@ -22,5 +22,5 @@ fi
 
 git add .
 git commit -m "$comment"
-git push origin
+git push github
 
